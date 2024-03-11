@@ -20,7 +20,8 @@ CosmWasm development environment set up (refer to [invalid URL removed]).
 A Cosmos-compatible wallet (e.g., Keplr).
 Contract Structure
 
-contract.rs: The core contract logic written in Rust.
+contract.rs:
+The core contract logic written in Rust.
 Defines data structures for listings, offers, etc.
 Implements functions for:
 Creating listings
