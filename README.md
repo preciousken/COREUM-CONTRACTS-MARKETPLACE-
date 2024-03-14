@@ -10,22 +10,13 @@ Key Features
 Getting Started
 Prerequisites
 
-Basic understanding of blockchain concepts and the Cosmos ecosystem.
-CosmWasm development environment set up.
-[Link to a more detailed setup guide if applicable]
-Installation
+* Offer System:
 
-Clone the repository: git clone https://github.com/<your_username>/nft-marketplace
-Install dependencies: (Specify if needed)
-Deployment
+Enables potential buyers to make offers on listed items.
 
-Configure your CosmWasm environment variables.
-Use CosmWasm tools to compile the contract into a WebAssembly (.wasm) binary.
-Deploy the compiled contract to your chosen Cosmos blockchain testnet or mainnet.
-Usage
+Ensures transparent negotiation processes.
 
+Secure Transactions:
 
-We welcome contributions to the NFT Marketplace!
-
-Submit Issues: Raise issues for bugs, feature requests, or any questions you may have.
-Propose Changes: Fork the repository and create pull requests to share your code improvements.
+Employs dispute resolution systems as needed.
+make a better readme.md  using readme operators
