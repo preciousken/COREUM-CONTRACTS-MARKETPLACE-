@@ -11,4 +11,5 @@ pub enum ExecuteMsg<T> {
     Mint(MintMsg<T>),
     /// Updates metadata of the NFT
     UpdateMetadata { token_id: String, token_uri: String, metadata: Metadata },
+    
 }

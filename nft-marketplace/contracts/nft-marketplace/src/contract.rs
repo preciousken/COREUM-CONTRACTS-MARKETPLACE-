@@ -30,6 +30,7 @@ pub fn instantiate(
     let config = Config {
         native_denom: msg.native_denom
     };
+    
     CONFIG.save(deps.storage, &config)?;
     set_contract_version(deps.storage, CONTRACT_NAME, CONTRACT_VERSION)?;
     Ok(Response::default())
