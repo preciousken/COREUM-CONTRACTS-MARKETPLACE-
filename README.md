@@ -10,7 +10,7 @@ Key Features
 Getting Started
 Prerequisites
 
-* Offer System:
+ Offer System:
 
 Enables potential buyers to make offers on listed items.
 
