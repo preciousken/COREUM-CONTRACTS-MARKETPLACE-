@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "nft_code_id": "2217",
+  "cw20_code_id": "2218",
+  "marketplace_code_id": "2219",
+  "nft_contract": "/cosmwasm.wasm.v1.MsgInstantiateContract",
+  "cw20_contract": "/cosmwasm.wasm.v1.MsgInstantiateContract",
+  "marketplace_contract": "/cosmwasm.wasm.v1.MsgInstantiateContract"
+}
